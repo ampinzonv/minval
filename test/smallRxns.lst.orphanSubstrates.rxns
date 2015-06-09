@@ -1,0 +1,5 @@
+R0001	A + B => C	A
+R0001	A + B => C	B
+R0002	C + D => E	D
+R0003	2 E + 1 F => 3 G	F
+R0005	N <= I	I
